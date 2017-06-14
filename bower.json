@@ -1,0 +1,33 @@
+{
+  "name": "norse",
+  "description": "rpg map viewer / controller",
+  "main": "app.js",
+  "authors": [
+    "Grantopher"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "rpg",
+    "dnd",
+    "pathfinder",
+    "map",
+    "fog-of-war",
+    "games",
+    "tabletop",
+    "dungeon",
+    "fun",
+    "app"
+  ],
+  "homepage": "public/viewer.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
+}

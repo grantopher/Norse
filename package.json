@@ -1,0 +1,35 @@
+{
+  "name": "norse",
+  "version": "1.0.0",
+  "description": "rpg map viewer / controller",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantopher/Norse.git"
+  },
+  "keywords": [
+    "rpg",
+    "dnd",
+    "pathfinder",
+    "map",
+    "fog-of-war",
+    "games",
+    "tabletop",
+    "dungeon",
+    "fun",
+    "app"
+  ],
+  "author": "Grantopher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grantopher/Norse/issues"
+  },
+  "homepage": "https://github.com/grantopher/Norse#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
